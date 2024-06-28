@@ -1,0 +1,35 @@
+.ba-imag img{
+    width:160px;
+    margin: 50px 0px 30px 35px;
+}
+.container{
+    width:80%;
+}
+.ban-end h4{
+    margin-left: -30px;
+    font-size: 1.25rem;
+    font-weight: 700;
+
+}
+
+.ban-end h6{
+    margin-left: 900px;
+    text-decoration: underline;
+    font-weight: 600;
+    margin-right: 30px;
+    }
+
+.ban-end{
+    /* margin-bottom: 20px; */
+    
+}
+
+.b-ico{
+    margin-right: 40px;
+}
+
+.b-imag img{
+    margin-top: 25px;
+    width:100%;
+    border-radius: 20px;
+}

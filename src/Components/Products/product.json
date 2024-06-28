@@ -1,0 +1,310 @@
+[
+    {
+        "id":1,
+        "img":"https://www.bigbasket.com/media/uploads/p/m/10000027_28-fresho-banana-robusta.jpg?tr=w-3840,q=80",
+        "fresho":"Fresho",
+        "proname":"Banana-Robusta",
+        "amount":"",
+        "rate":[{
+            "kg":"0.500 kg",
+            "proprice":22.5
+        },
+        {
+            "kg":"1 kg",
+            "proprice":45
+        },
+        {
+            "kg":"2 kg",
+            "proprice":90
+        }
+        ],
+        "detail":[
+            {
+                "head":"fresho! Banana - Robusta",
+                "abo_head":"About the Product",
+                "abo_detail1":"Banana Robusta is one of the most widely consumed banana varieties.",
+                "abo_detail2":"These bananas are known for their distinctive, sweet flavours and creamy texture. They have a vibrant yellow skin when ripe, which encases a high-starch content flesh, making them ideal for cooking and baking.",
+                "benifit_head":"Benefits",
+                "ben_detail1":"Rich in vitamins C and B6",
+                "ben_detail2":"High in dietary fibre",
+                "store_head":"Storage and Uses",
+                "store_detail":"Store in cool and dry place.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 10000027",
+                "other_detail2":"Country of origin: India"
+            }
+        ]
+    },
+
+    {
+        "id":2,
+        "img":"https://www.bigbasket.com/media/uploads/p/l/10000067_23-fresho-capsicum-green.jpg?tr=w-1080,q=80",
+        "fresho":"Fresho",
+        "proname":"Capsicum",
+        "amount":"",
+        "rate":[{
+            "kg":"1 kg",
+            "proprice":44
+        },
+        {
+            "kg":"250 g",
+            "proprice":19.71
+        },
+        {
+            "kg":"500 g",
+            "proprice":24.5
+        }
+        ],
+        "detail":[
+            {
+                "head":"Fresho Capsicum - Green (Loose)",
+                "abo_head":"About the Product",
+                "abo_detail1":"Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods.",
+                "abo_detail2":"They have thick and shiny skin with a fleshy texture inside.",
+                "benifit_head":"Benefits",
+                "ben_detail1":"Green capsicums have powerful antioxidants and anti-inflammatory properties.",
+                "ben_detail2":"Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage.",
+                "store_head":"Storage and Uses",
+                "store_detail":"Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 100000670",
+                "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+            }
+        ]
+    },
+
+    {
+        "id":3,
+        "img":"https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg?tr=w-1080,q=80",
+        "fresho":"Fresho",
+        "proname":"Cauliflower",
+        "amount":"",
+        "rate":[{
+            "kg":"1 pc",
+            "proprice":23
+        },
+        {
+            "kg":"250 g",
+            "proprice":14
+        },
+        {
+            "kg":"500 g",
+            "proprice":18
+        }
+        ],
+        "detail":[
+            {
+                "head":"Fresho Cauliflower",
+                "abo_head":"About the Product",
+                "abo_detail1":"Cauliflower is made up of tightly bound clusters of soft, crumbly, sweet cauliflower florets that form a dense head.",
+                "abo_detail2":"Resembling a classic tree, the florets are attached to a central edible white trunk which is firm and tender.",
+                "benifit_head":"Benefits",
+                "ben_detail1":"One serving of cauliflower contains 77 percent of daily recommended value of vitamin C.",
+                "ben_detail2":"Cauliflowers are rich in B complex vitamins, potassium and manganese.They protect from the risk of heart diseases and brain disorders",
+                "store_head":"Storage and Uses",
+                "store_detail":"Refrigerate in a loosely sealed plastic bag. It keeps well for upto 7 days. Do not store florets for more than 5 days.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 100000740",
+                "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar, Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+            }
+        ]
+    },
+
+    {
+        "id":4,
+        "img":"https://www.bigbasket.com/media/uploads/p/m/10000333_14-fresho-chilli-green-long-medium.jpg?tr=w-3840,q=80",
+        "fresho":"Fresho",
+        "proname":" Chilli",
+        "amount":"",
+        "rate":[{
+            "kg":"1 kg",
+            "proprice":143
+        },
+        {
+            "kg":"250 g",
+            "proprice":35.75
+        },
+        {
+            "kg":"500 g",
+            "proprice":71.5
+        }
+        ],
+        "detail":[
+            {
+                "head":"fresho! Chilli - Green Long, Medium (Loose), 1 kg",
+                "abo_head":"About the Product",
+                "abo_detail1":"Green chillis are the best kitchen ingredient to bring a dash of spiciness to recipes. ",
+                "abo_detail2":" The fresh flavour and sharp bite make them a must in almost all Indian dishes. This particular green chilli variety is big.",
+                "benifit_head":"Benefits",
+                "ben_detail1":"Rich in dietary fiber. So, it eases digestion. Protects against cancer and stimulates the cooling center of the brain by lowering the body temperature.",
+                "ben_detail2":"This is the reason why in a hot place like India, chillies are consumed alot. It also possesses anti-bacterial properties.",
+                "store_head":"Storage and Uses",
+                "store_detail":"Wash and dry them. Gently pull out the top stem. Throw out the spoilt ones as the famous saying goes- one rotten spoils the whole pack, in this context quite literally. Keep them in a container and refrigerate.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 100003330",
+                "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore, Karnataka 560071Country of Origin: India"
+            }
+        ]
+    },
+
+    {
+        "id":5,
+        "img":"https://www.bigbasket.com/media/uploads/p/l/10000142_17-fresho-ladies-finger.jpg?tr=w-1080,q=80",
+        "fresho":"Fresho",
+        "proname":"Ladie's Finger",
+        "dis":"none",
+        "amount":"",
+        "rate":[{
+                    "kg":"1 kg",
+                    "proprice":60
+                },
+                {
+                    "kg":"250 g",
+                    "proprice":14
+                },
+                {
+                    "kg":"500 g",
+                    "proprice":18
+                }
+                ],
+        "detail":[
+            {
+                "head":"Fresho Ladies' Fingers (Loose)",
+                "abo_head":"About the Product",
+                "abo_detail1":"Ladies' finger is a green vegetable with a tip at the end and a lighter green head, which is inedible and to be thrown away. It tastes mild and slightly grassy.",
+                "abo_detail2":"Ladies' finger or okra is a popular vegetable that is nutritious and has a high fibre content. It contains both soluble as well as insoluble fibres and is used in various recipes. The best way to select ladies' finger is to look for smaller pods as they are tender. These also taste better. The brighter coloured ones and those that are unblemished, and firm are the best quality lady's finger. The ladies' fingers are sourced directly from the farmers and brought to the shelves carefully, ensuring that the vegetable maintains its freshness and nutrients.",
+                "benifit_head":"Benefits",
+                "bendetail1":"Ladies' finger aids in digestion as it contains prebiotic fiber and controls obesity and cholesterol.",
+                "ben_detail2":"It is loaded with Vitamin A, B, C, and traces of Zinc & Calcium",
+                "store_head":"Storage and Uses",
+                "store_detail":"Refrigerate them and do not wash them until they are ready to use.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code:  10000142",
+                "other_detail2":"Sourced & Marketed by:  INNOVATIVE RETAIL CONCEPTS PRIVATE LIMITED No.18, 2nd & 3rd Floor, 80 Feet Main Road, Koramangala 4th Block,"
+            }
+        ]
+        
+    },
+
+    {
+        "id":6,
+        "img":"https://www.bigbasket.com/media/uploads/p/l/10000203_16-fresho-tomato-local.jpg?tr=w-1080,q=80",
+        "fresho":"Fresho",
+        "proname":"Tomato",
+
+        "amount":"",
+        "rate":[{
+            "kg":"1 kg",
+            "proprice":41
+        },
+        {
+            "kg":"250 g",
+            "proprice":15.33
+        },
+        {
+            "kg":"500 g",
+            "proprice":22
+        }
+        ],
+
+        "detail":[
+            {
+                "head":"Fresho Tomato - Local",
+                "abo_head":"About the Product",
+                "abo_detail1":"Local tomatoes are partly sour and partly sweet and contain many seeds inside which are edible. The red colour present in tomatoes is due to lycopene, an anti-oxidant.",
+                "abo_detail2":"Do not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/935/tomato-chutney-for-dosa-and-idly/",
+                "benifit_head":"Benefits",
+                "ben_detail1":"Tomatoes contain Vitamin C,K. lycopene, an antioxidant that reduces the risk of cancer and heart-diseases.",
+                "ben_detail2":" They protect the eyes from light induced damage.",
+                "store_head":"Storage and Uses",
+                "store_detail":"Store tomatoes stem side down in a single layer, at room temperature, away from the sunlight.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 10000203",
+                "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+            }
+        ]
+    },
+
+    {
+        "id":7,
+        "img":"https://www.bigbasket.com/media/uploads/p/l/10000148_32-fresho-onion.jpg?tr=w-1080,q=80",
+        "fresho":"Fresho",
+        "proname":"Onion",
+
+        "amount":"",
+        "rate":[{
+            "kg":"1 kg",
+            "proprice":70
+        },
+        {
+            "kg":"500 g",
+            "proprice":57
+        },
+        {
+            "kg":"250 g",
+            "proprice":36.43
+        }
+        ],
+
+        "detail":[
+            {
+                "head":"Fresho Onion",
+                "abo_head":"About the Product",
+                "abo_detail1":"Onion is a vegetable which is almost like a staple in Indian food. This is also known to be one of the essential ingredients of raw salads. They come in different colours like white, red or yellow and are quite in demand in cold salads and hot soups.",
+                "abo_detail2":"You can dice, slice or cut it in rings and put it in burgers and sandwiches. Onions emit a sharp flavour and fragrance once they are fried; it is due to the sulphur compound in the vegetable.Onions are known to be rich in biotin.",
+                "benifit_head":"Benefits",
+                "ben_detail1":"Onions are known to have antiseptic, antimicrobial and antibiotic properties which help you to get rid of infections.",
+                "ben_detail2":"If a piece of onion is inhaled, it can slow down or stop nose bleeding.",
+                "store_head":"Storage and Uses",
+                "store_detail":"Store in a cool dry place, need not refridgerate.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 10000148",
+                "other_detail2":"Country of origin: India"
+            }
+        ]
+    },
+
+    {
+        "id":8,
+        "img":"https://www.bigbasket.com/media/uploads/p/l/10000118_18-fresho-ginger.jpg?tr=w-1080,q=80",
+        "fresho":"Fresho",
+        "proname":"Ginger",
+
+        "amount":"",
+
+        "rate":[{
+            "kg":"500 g",
+            "proprice":87
+        },
+        {
+            "kg":"100 g",
+            "proprice":18.25
+        },
+        {
+            "kg":"250 g",
+            "proprice":42
+        }
+        ],
+
+        "detail":[
+            {
+                "head":"Fresho Ginger (Loose)",
+                "abo_head":"About the Product",
+                "abo_detail1":"Firm and fibrous ginger roots are stretched with multiple fingers that have light to dark tan skin and rings on it and is aromatic, spicy and pungent. The flavour gets intensified when the ginger is dried and lessens when cooked.",
+                "abo_detail2":"Do not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/232/chinese-white-sauce/",
+                "benifit_head":"Benefits",
+                "ben_detail1":"Ginger root treats morning sickness. They reduce muscle pain, soreness and eases various stomach problems.",
+                "ben_detail2":"Drinking ginger juice is a great medicine to relieve sore throats.",
+                "store_head":"Storage and Uses",
+                "store_detail":"Refrigerate it in a plastic bag. When ginger is kept in freezer, they are easier to peel and grate.",
+                "other_head":"Other Product Info",
+                "other_detail1":"EAN Code: 10000118",
+                "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+            }
+        ]
+    }
+
+    
+
+
+]

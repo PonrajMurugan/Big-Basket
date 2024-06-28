@@ -1,0 +1,175 @@
+[
+  {
+      "id":1,
+      "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/41a0810e-1fc3-46e4-9d2c-7d9e79e0aa29/hp_f&v_m_fresh-fruits_480_250923.jpg?tr=w-1920,q=80",
+      "type":"fruit",
+      "brand":["Fresho"],
+      "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+      "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+      "card":[
+                      {
+                          "id":1,
+                          "card_img":"https://www.bigbasket.com/media/uploads/p/m/30009286_8-fresho-blueberry.jpg?tr=w-1920,q=80",
+                          "card_fresho":"Fresho",
+                          "card_name":"Blueberry",
+                          "card_kg":"120 g",
+                          "card_discount":2,
+                          "iscart":false,
+                          "issave":false,
+                          "isselect":false,
+                          "count":1,
+                          "card_price":289
+                      },
+                      {
+                          "id":2,
+                          "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000267_24-fresho-orange-nagpur-regular.jpg?tr=w-1920,q=80",
+                          "card_fresho":"Fresho",
+                          "card_name":"Orange - Nagpur, Regular (Loose)",
+                          "card_kg":"500 g",
+                          "card_discount":15,
+                          "iscart":false,
+                          "issave":false,
+                          "isselect":false,
+                          "count":1,
+                          "card_price":37.5
+                      },
+                      {
+                          "id":3,
+                          "card_img":"https://www.bigbasket.com/media/uploads/p/m/40120006_6-fresho-pomegranate-small.jpg?tr=w-1920,q=80",
+                          "card_fresho":"Fresho",
+                          "card_name":"Pomegranate - Regular (Loose)",
+                          "card_kg":"1 kg (5-6 pcs per kg)",
+                          "card_discount":5,
+                          "card_price":242.36
+                      },
+                      {
+                          "id":4,
+                          "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000005_27-fresho-apple-royal-gala-economy.jpg?tr=w-1920,q=80",
+                          "card_fresho":"Fresho",
+                          "card_name":"Apple - Royal Gala Economy",
+                          "card_kg":"4 pcs Approx.450-500 g",
+                          "card_discount":8,
+                          "iscart":false,
+                          "issave":false,
+                          "isselect":false,
+                          "count":1,
+                          "card_price":133.59
+                      },
+                      {
+                          "id":5,
+                          "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000207_24-fresho-watermelon-small.jpg?tr=w-1920,q=80",
+                          "card_fresho":"Fresho",
+                          "card_name":"Watermelon - Small",
+                          "card_kg":"1pc-1.7-2.5 kg",
+                          "card_discount":9,
+                          "iscart":false,
+                          "issave":false,
+                          "isselect":false,
+                          "count":1,
+                          "card_price":65.7
+                      },
+                      {
+                          "id":6,
+                          "card_img":"https://www.bigbasket.com/media/uploads/p/m/20000737_11-fresho-banana-raw-green.jpg?tr=w-1920,q=80",
+                          "card_fresho":"Fresho",
+                          "card_name":"Banana - Raw Green (Loose)",
+                          "card_kg":"1pc",
+                          "card_discount":27,
+                          "iscart":false,
+                          "issave":false,
+                          "isselect":false,
+                          "count":1,
+                          "card_price":16.06
+                      }
+
+      ]
+  },
+
+  {
+      "id":2,
+      "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/41a0810e-1fc3-46e4-9d2c-7d9e79e0aa29/hp_f&v_m_fresh-vegetables_480_250923.jpg?tr=w-1920,q=80",
+      "type":"vegetable",
+      "brand":["Fresho"],
+      "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+      "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+      "card":[
+                  {
+                      "id":1,
+                      "card_img":"https://www.bigbasket.com/media/uploads/p/m/40022639_5-fresho-cucumber-organically-grown.jpg?tr=w-1920,q=80",
+                      "card_fresho":"Fresho",
+                      "card_name":"Cucumber - Organically Grown (Loose)",
+                      "card_kg":"500 g",
+                      "card_discount":15,
+                      "iscart":false,
+                      "issave":false,
+                      "isselect":false,
+                      "count":1,
+                      "card_price":26.28
+                  },
+                  {
+                      "id":2,
+                      "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000204_16-fresho-tomato-local.jpg?tr=w-1920,q=80",
+                      "card_fresho":"Fresho",
+                      "card_name":"Tomato - Local",
+                      "card_kg":"500 g",
+                      "card_discount":2,
+                      "iscart":false,
+                      "issave":false,
+                      "isselect":false,
+                      "count":1,
+                      "card_price":20
+                  },
+                  {
+                      "id":3,
+                      "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000159_27-fresho-potato.jpg?tr=w-1920,q=80",
+                      "card_fresho":"Fresho",
+                      "card_name":"Potato",
+                      "card_kg":"1kg",
+                      "card_discount":15,
+                      "iscart":false,
+                      "issave":false,
+                      "isselect":false,
+                      "count":1,
+                      "card_price":39
+                  },
+                  {
+                      "id":4,
+                      "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000104_17-fresho-curry-leaves.jpg?tr=w-1920,q=80",
+                      "card_fresho":"Fresho",
+                      "card_name":"Curry Leaves",
+                      "card_kg":"100 g",
+                      "card_discount":11,
+                      "iscart":false,
+                      "issave":false,
+                      "isselect":false,
+                      "count":1,
+                      "card_price":11.68
+                  },
+                  {
+                      "id":5,
+                      "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000273_16-fresho-mushrooms-button.jpg?tr=w-1920,q=80",
+                      "card_fresho":"Fresho",
+                      "card_name":"Mushrooms - Button",
+                      "card_kg":"1pack Approx.180g-200g",
+                      "card_discount":3,
+                      "iscart":false,
+                      "issave":false,
+                      "isselect":false,
+                      "count":1,
+                      "card_price":51.5
+                  },
+                  {
+                      "id":6,
+                      "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000193_12-fresho-sweet-potato.jpg?tr=w-1920,q=80",
+                      "card_fresho":"Fresho",
+                      "card_name":"Sweet Potato (Loose)",
+                      "card_kg":"1 kg",
+                      "card_discount":7,
+                      "iscart":false,
+                      "issave":false,
+                      "isselect":false,
+                      "count":1,
+                      "card_price":81.3
+                  }
+      ]
+  }]

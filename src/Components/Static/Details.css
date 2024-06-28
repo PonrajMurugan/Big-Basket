@@ -1,0 +1,19 @@
+.saveico{
+    border:1px solid grey;
+    padding-top:4px;
+    padding-bottom:6px;
+    font-size: 1em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.btn-cart{
+    width:200px;
+    margin-left: 15px;
+    height:6vh;
+    margin-bottom: 5px;
+}

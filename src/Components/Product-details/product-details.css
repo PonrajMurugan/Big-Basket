@@ -1,0 +1,133 @@
+  
+   .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+   .product-details {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .image-and-rates {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    /* align-items: center; */
+  }
+  
+  .product-details img {
+    /* max-width: 300px; */
+    border-radius: 8px;
+
+  }
+  
+  .rates {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .a-but{
+    width:300px;
+    background-color:red;
+    height: 8vh;
+
+  }
+  .a-but:hover{
+    background-color:red;
+  }
+
+  .b-s-ico{
+    border:1px solid black;
+    width:300px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 5px;
+    border-radius: 5px;
+      }
+
+      .rates-tk{
+        border: 1px solid green;
+        width:600px;
+        height:8vh;
+        padding-top: 15px;
+        padding-left: 10px;
+      
+      }
+      .tkico{
+        position:absolute;
+        padding-left: 580px;
+        padding-top: 15px;
+        color: green;
+      }
+
+.product-details{
+  margin-top: 25px;
+}
+
+.image-and-rates img{
+  width:35%;
+  border:1px solid rgba(128, 128, 128, 0.578);
+
+}
+
+.custom-underline {
+  position: relative;
+  text-decoration: none;
+  font-size: 1rem;
+  line-height: 1.25rem;
+    
+}
+
+.custom-underline::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 9%;
+  height: 1px;
+  background-color: currentColor;
+}
+
+.product-info{
+  margin-top: 25px;
+  border:1px solid rgba(128, 128, 128, 0.39);
+  margin-bottom: 20px;
+padding: 20px;
+}
+
+.product-info h2{
+  margin-top: 10px;
+
+}
+
+
+
+.product-info h2{
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.product-info h4 {
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight:600;
+}
+
+.product-info p {
+  font-size: 0.8rem;
+  font-weight:400;
+}
+
+.ibb{
+  font-size: 1.9rem;
+  margin-top: -4px;
+  
+
+}
+
+.p {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.39); 
+  padding-bottom: 5px;
+}
